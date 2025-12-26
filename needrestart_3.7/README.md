@@ -1,4 +1,6 @@
-# needrestart 3.7 - Restart daemons after library updates.
+# About needrestart
+
+### needrestart 3.7 - Restart daemons after library updates.
 Authors:
   Thomas Liske <thomas@fiasko-nw.net>
 
