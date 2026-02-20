@@ -14,4 +14,4 @@ python3 CVE.py
 ```
 
 ### Proof of Running Output
-<img width="1199" height="512" alt="image" src="https://github.com/0xmrsecurity/Public_Poc/blob/main/Camaleon%20CMS(CVE-2024-46987)/cve.png" />
+<img width="1199" height="512" alt="image" src="https://github.com/0xmrsecurity/Public_Poc/blob/main/wings_FTP_Server/ftp.png" />
