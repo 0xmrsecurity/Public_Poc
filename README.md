@@ -2,4 +2,4 @@
 Personal Blog web Page
 
 ## Thoughts
-I learn and write the public proof of concepts for the better understanding.
+I learn and write the public proof of concepts for the better understanding of hacking and programming skills.
