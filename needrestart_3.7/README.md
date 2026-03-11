@@ -10,6 +10,8 @@ Copyright Holder:
 Upstream:
   https://github.com/liske/needrestart
 
+> [!WARNING]
+>
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation; either version 2 of the License, or
@@ -18,12 +20,16 @@ the Free Software Foundation; either version 2 of the License, or
 
 # Exploit Usage
 ```bash
-git clone it  or copy it !
+# Copy file pwn.sh
 nano pwn.sh
 chmod +x pwn.sh
+
+# Start listner
 nc -lvnp port
-./pwn.sh  #we are prompt for ip and port for shell!!
+
+# know execute script
+./pwn.sh       # we are prompt for ip and port for shell!!
 ```
-# Prove
+# Proof
 <img width="1199" height="512" alt="image" src="https://github.com/0xmrsecurity/Public_Poc/blob/main/needrestart_3.7/needrestart.png" />
 
