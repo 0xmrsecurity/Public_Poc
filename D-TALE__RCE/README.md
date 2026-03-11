@@ -7,7 +7,7 @@
 
 ### Python Script
 > [!WARNING]
-> To demonstrate this CVE. I wrote a pythons script that will do a Arbitrary Code Injection in the web-portal.
+> To demonstrate this CVE. I wrote a pythons script that will do a Arbitrary Code Injection in the web-portal. Required admin portal....
 
 # Profe of Concept 
 ```bash
