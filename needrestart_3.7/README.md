@@ -2,7 +2,7 @@
 
 ### needrestart 3.7 - Restart daemons after library updates.
 > [!WARNING]
->
+> Original CVE Author detail below, i just found the another way to exploit it 
 > Authors:
   Thomas Liske <thomas@fiasko-nw.net>
 
