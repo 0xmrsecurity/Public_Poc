@@ -1,6 +1,6 @@
 ## CVE-2025-47812.py
-
-Wings FTP server RCE in Login Pages 
+> [!WARNING]
+> Wings FTP server RCE in Login Pages 
 
 Payload lokks like :- 
 ```bash
