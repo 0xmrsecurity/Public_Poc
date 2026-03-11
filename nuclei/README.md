@@ -6,7 +6,7 @@
 
 <img width="1901" height="461" alt="image" src="https://github.com/user-attachments/assets/714b8f2d-298b-48dc-843f-2248a338abcd" />
 
-```bash
+```bash  title="File_Name.yaml"
 # Create yaml file
 nano File_Name.yaml
 
